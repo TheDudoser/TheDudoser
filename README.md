@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hello, I'm Egor
 
-<!--
-**Dudoserovich/Dudoserovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a student and in my free time I program some interesting things for myself
 
-Here are some ideas to get you started:
+I like
+- :beer: beer
+- 🎧: Against The Current
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and coding :computer:
+
+---
+
+### Skills and Tools
+
+SEE YOU SOON
+
+### You can contact me:
+
+[<img align="left" alt="YouTube" width="26px" src="https://img.icons8.com/ios/2x/telegram-app.png" />][telegram]
+[<img align="left" alt="Facebook" width="26px" src="https://img.icons8.com/ios-filled/2x/vk-com.png" />][VK]
+
+[<img align="left" alt="CodeWars" width="320px" src="https://www.codewars.com/users/Dudoserovich/badges/large" />][codewars]
+
+[telegram]: https://t.me/TheDudoser
+[VK]: https://vk.com/egorhmell
+[codewars]: https://www.codewars.com/r/Dudoserovich
