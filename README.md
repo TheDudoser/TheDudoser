@@ -4,6 +4,7 @@
 
 I like
 - :beer: beer
+- photo 🖼️
 - 🎧: Against The Current
 
 and coding :computer:
