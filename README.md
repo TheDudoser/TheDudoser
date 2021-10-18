@@ -3,7 +3,6 @@
 ### I am a student and in my free time I program some interesting things for myself
 
 I like
-- :beer: beer
 - photo 🖼️
 - 🎧: Against The Current
 
