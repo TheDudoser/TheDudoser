@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Egor</h1>
 <h3 align="center">I'm Student, Developer, and Photographer from Vladivostok</h3>
 
-- 🔭 I’m currently working on DromUpgrade
+- 🔭 I’m currently working on EduGameTheory
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
