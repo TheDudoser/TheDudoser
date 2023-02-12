@@ -3,7 +3,12 @@
 
 - 🔭 I’m currently working on EduGameTheory
 
+<details>
+  <summary>:zap: 3D profile stats</summary>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
