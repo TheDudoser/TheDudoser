@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on EduGameTheory
 
 <details>
-  <summary>:zap: 3D profile stats</summary>
+  <summary>:memo: 3D profile stats</summary>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
