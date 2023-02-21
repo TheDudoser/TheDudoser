@@ -3,7 +3,7 @@
 
 **I’m currently:**
 - ⚒  working as a data engineer in DNS-technology
-- 🔭 writing a thesis on Gamification of Game Theory (EduGameTheory)
+- 🔭 writing a thesis on Gamification of Game Theory ([EduGameTheory](https://dudoser.msur.team/))
 
 <details>
   <summary>:memo: 3D profile stats</summary>
