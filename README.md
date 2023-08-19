@@ -2,7 +2,7 @@
 <h3 align="center">I'm Student, Developer, and Photographer:camera: from Vladivostok</h3>
 
 **I’m currently:**
-- ⚒  working as a data engineer in DNS-technology
+- ⚒  worked as a data engineer in DNS-technology
 - 🔭 writing a thesis on Gamification of Game Theory ([EduGameTheory](https://dudoser.msur.team/))
 
 <details>
