@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egor</h1>
-<h3 align="center">I'm Student, Developer, and Photographer:camera: from Vladivostok</h3>
+<h3 align="center">I'm Developer, and Photographer:camera: from Vladivostok</h3>
 
 **I’m currently:**
 - ⚒  worked as a data engineer in DNS-technology
