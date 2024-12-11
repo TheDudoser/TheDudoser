@@ -10,6 +10,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="top" alt="Dudoserovich GitHub Stats" src="https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Dudoserovich&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dracula&hide_border=true" />
+<img align="top" alt="TheDudoser GitHub Stats" src="https://github-readme-stats-axpwmfcg3.vercel.app/api?username=TheDudoser&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dracula&hide_border=true" />
  
 </details>
