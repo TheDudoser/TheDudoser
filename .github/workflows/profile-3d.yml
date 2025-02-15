@@ -2,8 +2,8 @@ name: 3D profile
 
 on:
   schedule:
-    # Runs at 00:00 UTC
-    - cron: '0 0 * * *'
+    # At 00:00 on every 5th day-of-month (UTC)
+    - cron: '0 0 */5 * *'
   workflow_dispatch:
 jobs:
   update-readme:
